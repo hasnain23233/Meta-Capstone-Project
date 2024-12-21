@@ -1,5 +1,7 @@
 # Meta Capstone Project
+<img src="https://github.com/hasnain23233/Meta-Capstone-Project/blob/main/2.PNG" alt="noo"/>
 
+<img src="https://github.com/hasnain23233/Meta-Capstone-Project/blob/main/ewew.PNG" alt="noo"/>
 ## Project Overview
 
 This project is developed as part of the Meta Front-End Developer Professional Certificate program. It showcases the application of React, Vite, and other modern web development tools to build a responsive and interactive web application.
