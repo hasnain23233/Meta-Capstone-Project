@@ -303,10 +303,9 @@ const Footer = () => {
 
                     <div className="py-6 md:py-8">
                         <div className="gap-4 space-y-5 xl:flex xl:items-center xl:justify-between xl:space-y-0">
-                            <a href="#" title="" className="block">
-                                <img className="block h-8 w-auto dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/logo-full.svg" alt="" />
-                                <img className="hidden h-8 w-auto dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/logo-full-dark.svg" alt="" />
-                            </a>
+                            <a href="linkedin.com/in/hasnain-khushii-1162805a8/" title="" className="block">
+                                hasnain khushi
+                             </a>
 
                             <ul className="flex flex-wrap items-center gap-4 text-sm text-gray-900 dark:text-white xl:justify-center">
                                 <li><a href="#" title="" className="font-medium hover:underline"> Flowbite Express </a></li>
